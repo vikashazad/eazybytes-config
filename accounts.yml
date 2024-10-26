@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank accounts related docker-compose APIs "
+  message: "Welcome to EazyBank accounts related using docker compose APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
